@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 
+![Sales Intelligence Dashboard](visuals/dashboard.png)
+
 The **Sales Intelligence & Business Analytics Platform** is a Python-based data analytics project designed to analyze sales data and provide useful business insights through data cleaning, exploratory data analysis, visualization, SQL analysis, and an interactive dashboard.
 
 The platform helps identify sales trends, profitable categories, top-performing products, and regional performance.
