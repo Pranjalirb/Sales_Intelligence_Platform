@@ -195,7 +195,8 @@ The current dataset contains **10,000 sales transactions**.
                           ▼
                   Business Insights
 
-                🛠️ Technologies Used
+🛠️ Technologies Used
+
 Programming Language
 Python
 Data Analysis
@@ -212,7 +213,9 @@ Git
 GitHub
 VS Code
 Jupyter Notebook
+
 📁 Project Structure
+
 SALES_INTELLIGENCE_PLATFORM/
 │
 ├── data/
