@@ -1,6 +1,6 @@
 # 📊 Sales Intelligence & Business Analytics Platform
 
-A Python-based sales analytics platform that transforms raw sales data into meaningful business insights through data cleaning, data validation, exploratory data analysis, SQL analysis, data visualization, and an interactive dashboard.
+A Python-based sales analytics platform that transforms raw sales data into meaningful business insights through data cleaning, data validation, exploratory data analysis,  data visualization, and an interactive dashboard.
 
 ---
 
