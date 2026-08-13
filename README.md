@@ -64,9 +64,9 @@ The project analyzes:
 - Product performance
 - Regional performance
 
-### 🗄️ SQL Business Analysis
+### 🗄️ Pandas Business Analysis
 
-SQL is used for business-oriented analysis such as:
+pandas is used for business-oriented analysis such as:
 
 - Top-selling products
 - Category performance
@@ -184,10 +184,7 @@ The current dataset contains **10,000 sales transactions**.
               Exploratory Data Analysis
                           │
                           ▼
-                    SQL Analysis
-                          │
-                          ▼
-                 Data Visualization
+                Data Visualization
                           │
                           ▼
                Interactive Dashboard
@@ -205,7 +202,7 @@ The current dataset contains **10,000 sales transactions**.
 | Programming Language | Python |
 | Data Analysis | Pandas, NumPy |
 | Data Visualization | Matplotlib |
-| Database / Querying | SQL |
+| Database / Querying | 
 | Dashboard | Tkinter |
 | Development Tools | Git, GitHub, VS Code, Jupyter Notebook |
 
@@ -223,11 +220,6 @@ SALES_INTELLIGENCE_PLATFORM/
 │   └── raw/
 │       └── sales.csv
 │
-├── database/       (empty)
-│
-├── notebooks/      (empty)
-│
-├── reports/        (empty)
 │
 ├── src/
 │   ├── dashboard.py
