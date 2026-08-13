@@ -24,7 +24,6 @@ The objective is to convert raw business data into meaningful insights that can 
 - Analyze sales and profit performance
 - Identify high-performing products and categories
 - Analyze regional sales performance
-- Perform business analysis using SQL
 - Create meaningful data visualizations
 - Build an interactive dashboard
 - Generate actionable business insights
